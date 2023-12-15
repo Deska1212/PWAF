@@ -8,3 +8,4 @@ Pong With A Friend is a Pong clone with modern and updated gameplay, features in
 - An Infinite AI to play against and beat your highscore
 
 For reviewers: Code assets are located in Assets>Runtime.
+Lack of commit history is due to moving project from PlasticSCM for portfolio purposes..
