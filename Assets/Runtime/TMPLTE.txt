@@ -1,0 +1,27 @@
+{
+	#region STATIC FIELDS
+
+	#endregion
+
+	#region PRIVATE FIELDS
+
+	#endregion
+
+	#region PROPERTIES/PUBLIC FIELDS
+
+	#endregion
+
+	#region UNITY EVENT FUNCTIONS
+
+	#endregion
+	
+	#region PUBLIC METHODS
+    
+    #endregion
+
+	#region PRIVATE METHODS
+
+	#endregion
+
+	
+}
